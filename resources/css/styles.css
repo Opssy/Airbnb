@@ -684,9 +684,6 @@ li {
   margin-top: 10px;
   list-style: none;
 }
-.wfoot :before {
-  display: block;
-  content: " ";
-  background-color: #e67e22;
-  width: 100px;
+.row__foot{
+  border: 2px solid rgba(216, 216, 216, 0.18);
 }
